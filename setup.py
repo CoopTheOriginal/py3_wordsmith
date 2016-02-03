@@ -14,7 +14,7 @@ setup(
     long_description=long_description,
     url='https://github.com/xACruceSalus/py3_wordsmith',
     author=['Zack Cooper', 'John Hegele'],
-    author_email='zackjcooper@gmail.com'
+    author_email='zackjcooper@gmail.com',
     license='MIT',
     classifiers=[
         'Development Status :: 4 - Beta',
