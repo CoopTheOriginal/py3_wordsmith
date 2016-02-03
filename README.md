@@ -12,7 +12,8 @@ py3_wordsmith
 **Installation**
 
 ```pip install py3_wordsmith```
-After installing the package simply create the Wordsmith obj with ```word_obj = Wordsmith('0.1', 'api_key')```. A list of methods can be found in the example.py file
+
+After installing the package, create the Wordsmith obj with ```Wordsmith('0.1', 'api_key')```. A list of methods associated with that object can be found in the example.py file.
 
 **Requirements**
 * Written for Python 3.3+
