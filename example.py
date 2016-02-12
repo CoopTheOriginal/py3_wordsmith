@@ -1,4 +1,4 @@
-from py_wordsmith import Wordsmith
+from py3_wordsmith import Wordsmith
 
 # create Wordsmith object with API version and key
 word_obj = Wordsmith('0.1', 'api_key')
